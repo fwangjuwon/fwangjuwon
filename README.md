@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=프로그래머%20개또&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=programmer %20 개또&fontSize=50)
