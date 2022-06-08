@@ -6,7 +6,7 @@
 
 ###### Hello!  I am Juwon Hwang. I am currently learning programming to make people lives comfy.
 ---
-###### 🌱 Junior Developer `Back-end Developer`
+###### 🌱 Preparing to become a Backend Developer
 ###### 📝 Writing a blog for sharing many useful code
 ###### 📚 Completed the IT training course at 'Green Computer Art Academy' (2021.12~2022.06)
 ###### 🎓 Graduated from Busan National University (but programming is outside of my field)  
