@@ -12,7 +12,7 @@
 ###### 🎓 Graduated from Busan National University (but programming is outside of my field)  
 #
 
-######  🖥 [Portfolio](https://cautious-haze-540.notion.site/Juwon-Hwang-bdc980105c53418ba798c00fe4686c71)
+######  🖥 [Portfolio](https://won5354.wixsite.com/fwangjuwon)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/fwangjuwon)
 ######  🗃 [Github for Project](https://github.com/emperor-juwon)
 
