@@ -10,7 +10,6 @@
 ###### 📝 Writing a blog for sharing many useful code
 #
 
-######  🖥 [Portfolio](https://won5354.wixsite.com/fwangjuwon)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/fwangjuwon)
 ######  🗃 [Github for Project](https://github.com/emperor-juwon)
 
