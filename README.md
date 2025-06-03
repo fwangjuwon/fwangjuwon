@@ -14,5 +14,3 @@
 ######  🗃 [Github for Project](https://github.com/emperor-juwon)
 
 ---
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffwangjuwon&count_bg=%23B07EEE&title_bg=%2394C1F6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
